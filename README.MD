@@ -9,8 +9,7 @@ cd 2026-04-20-ecard-task
 ## Task 1:
 
 Presumably there is MySQL installed on the host.</br>
-With `DbSchema.pl` I create a new db and the needed tables.</br>
-I need sudo rights to create `perl_casino_db` database, a new `perl_user` with password and to give it rights to access and modify the tables in it.</br>
+In `DbSchema.pl` I define the new database and the needed tables. I need sudo rights to create `perl_casino_db` database, a new `perl_user` with password and to give it rights to access and modify the tables in it.</br>
 After that we don't need sudo rights.</br>
 
 ```bash
