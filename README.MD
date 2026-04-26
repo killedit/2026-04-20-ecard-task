@@ -29,6 +29,8 @@ Roulette | 10 | 1 | 41.00 | 9.00 | 32.00
 "Sea Of treasure" | 20 | 1 | 41.00 | 24.00 | 17.00
 Blackjack | 50 | 2 | 52.00 | 63.00 | -11.00
 
+`*The values will vary.`
+
 ## Task 2:
 
 This is a mini lottery game. You can pass an argument, number from 1 to 9, or you will be asked for one. There are explanations and simple validations on each step.
@@ -40,7 +42,8 @@ perl lottery.pl
 perl lottery_stats.pl
 ```
 
-The expected output where the values will be diffrent:
+The expected output:</br>
+
 ```
 ------------------------------------------------
 Statistic                           |      Value
@@ -54,3 +57,4 @@ Biggest win                         |        184
 Net result (win - loss)             |       1120
 ------------------------------------------------
 ```
+`*The values will vary.`
